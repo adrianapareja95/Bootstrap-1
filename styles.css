@@ -1,0 +1,35 @@
+.titulo {
+    color: rgb(26, 106, 106);
+    font-size: 2rem;
+    display: block;
+    text-align: center;
+}
+
+
+
+.red {
+    color: white;
+    background-color: brown;
+}
+
+.green {
+    color: white;
+    background-color: green;
+}
+
+.blue {
+    color: white;
+    background-color: blue;
+}
+
+.rosa {
+    color: white;
+    background-color: hotpink;
+}
+
+.cosas {
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height: 50vh;
+}
